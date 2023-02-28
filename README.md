@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="images/스크린샷_20221124_065818.png"> </img>
+<img  src="images/스크린샷_20221124_065818.png"> </img>
 
 <!--
 **yllud/yllud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
